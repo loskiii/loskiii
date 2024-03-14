@@ -22,7 +22,7 @@
 <p align="left">
 
 
-<a href="https://instagram.com/loski_008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loski_008" height="30" width="40" /></a>
+<a href="https://instagram.com/loski_008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loski_008" height="70" width="70" /></a>
 
 </p>
 
