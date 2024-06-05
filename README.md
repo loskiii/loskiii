@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **omoloski5@gmail.com**
 
-- ⚡ Fun fact **I am 6'3**
+- ⚡ Fun fact - **I am 6'3**
 
 
 <h3 align="left">Connect with me:</h3>
