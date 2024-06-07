@@ -39,6 +39,5 @@
 ## Feel free to donate
 If you find my work useful, consider making a donation. Your support is much appreciated!
 
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://www.paypal.com/donate? business=omollo266@gmail.com)
 
 
