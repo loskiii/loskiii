@@ -36,8 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loskiii&&theme=tokyonight" alt="loskiii" /></p>
 
-## Feel free to donate
-If you find my work useful, consider making a donation. Your support is much appreciated!
+
 
 
 
