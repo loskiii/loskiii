@@ -7,13 +7,10 @@
 
 
 
-- 🔭 I’m currently working on **Airforce One Design(A web app)**
 
-- 🌱 I’m currently learning **C++ and SQL**
+- 💬 Ask me about **Android, Kotlin, SQL**
 
-- 💬 Ask me about **Android, Kotlin**
-
-- 📫 How to reach me **omoloski5@gmail.com**
+- 📫 My Email - **omoloski5@gmail.com**
 
 - ⚡ Fun fact - **I am 6'3**
 
