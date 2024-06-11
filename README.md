@@ -23,8 +23,8 @@
 
 
 <a href="https://instagram.com/loski_008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loski_008" height="70" width="70" /></a> 
-<a href="https://twitter.com/your_twitter_handle" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loskii_008" height="70" width="70" /></a> 
-<a href="https://www.linkedin.com/in/your_linkedin_handle" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Collins Omollo" height="70" width="70" /></a>
+<a href="https://twitter.com/loskii_008" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loskii_008" height="70" width="70" /></a> 
+<a href="https://www.linkedin.com/in/collins-omollo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Collins Omollo" height="70" width="70" /></a>
 
 </p>
 
