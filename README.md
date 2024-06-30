@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Collins</h1>
 <h3 align="center">A passionate Programmer from Kenya</h3>
 
- Profile Hits: [![HitCount](https://hits.dwyl.com/loskiii/loskiii.svg?style=flat-square&show=unique)](http://hits.dwyl.com/loskiii/loskiii)
+ [![HitCount](https://hits.dwyl.com/loskiii/loskiii.svg?style=flat-square&show=unique)](http://hits.dwyl.com/loskiii/loskiii)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
