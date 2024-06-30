@@ -16,14 +16,25 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-
-
-<a href="https://instagram.com/loski_008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loski_008" height="70" width="70" /></a> 
-<a href="https://twitter.com/loskii_008" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loskii_008" height="70" width="70" /></a> 
-<a href="https://www.linkedin.com/in/collins-omollo-51296629a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Collins Omollo" height="70" width="70" /></a>
-
-</p>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://instagram.com/loski_008" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loski_008" height="70" width="70"/>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://twitter.com/loskii_008" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loskii_008" height="70" width="70"/>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.linkedin.com/in/collins-omollo-51296629a" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Collins Omollo" height="70" width="70"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
