@@ -139,12 +139,29 @@
 </table>
 
 
+<!-- Align the stats section to the left -->
 <h3 align="left">Stats: </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loskiii&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="loskiii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loskiii&show_icons=true&locale=en&theme=nightowl" alt="loskiii" /></p>
+<!-- Container for the stats -->
+<div style="display: flex; flex-direction: column; align-items: center;">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loskiii&&theme=nightowl" alt="loskiii" /></p>
+  <!-- Top Languages -->
+  <div style="margin-bottom: 20px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loskiii&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="loskiii" />
+  </div>
+
+  <!-- GitHub Stats -->
+  <div style="margin-bottom: 20px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=loskiii&show_icons=true&locale=en&theme=nightowl" alt="loskiii" />
+  </div>
+
+  <!-- Streak Stats -->
+  <div>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loskiii&&theme=nightowl" alt="loskiii" />
+  </div>
+
+</div>
+
 
 
 
