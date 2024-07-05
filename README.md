@@ -161,6 +161,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=loskiii&&theme=nightowl" alt="loskiii" />
   </p>
 </section>
+ <h4 align="left">Trophies:</h4>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loskiii" alt="loskiii" /></a> </p>
 
 
 
