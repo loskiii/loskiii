@@ -164,6 +164,8 @@
  <h4 align="left">Trophies:</h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loskiii" alt="loskiii" /></a> </p>
 
+<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2>
+
 
 
 
