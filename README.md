@@ -10,11 +10,9 @@
 
 
 
-- 💬 Ask me about **Android, Kotlin, SQL**
-
-- 📫 My Email - **omoloski5@gmail.com**
-
-- ⚡ Fun fact - **I am 6'1**
+| 💬 **Ask me about** | 📫 **My Email** | ⚡ **Fun fact** |
+|---------------------|-----------------|----------------|
+| Android, Kotlin, SQL| omoloski5@gmail.com | I am 6'1" |
 
 
 <h3 align="left">Connect with me:</h3>
