@@ -1,5 +1,7 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://loskiii.io)
-<h1 align="center">Hi 👋, I'm Collins</h1>
+
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Bug+Squashers!+😊;+I'm+Collins+Omollo!;+Welcome+to+my+github+😊;+Enjoy+😊;" />
+</h1>
 <h3 align="center">A passionate Programmer from Kenya</h3>
 
  [![HitCount](https://hits.dwyl.com/loskiii/loskiii.svg?style=flat-square&show=unique)](http://hits.dwyl.com/loskiii/loskiii)
@@ -12,7 +14,7 @@
 
 - 📫 My Email - **omoloski5@gmail.com**
 
-- ⚡ Fun fact - **I am 6'3**
+- ⚡ Fun fact - **I am 6'1**
 
 
 <h3 align="left">Connect with me:</h3>
