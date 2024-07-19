@@ -139,21 +139,21 @@
 </table>
 
 <!-- GitHub Stats Section -->
-<!--<section style="margin-bottom: 40px;">
+<section style="margin-bottom: 40px;">
   <h4 align="left">GitHub Stats</h4>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=loskiii&show_icons=true&locale=en&theme=nightowl" alt="loskiii" />
   </p>
-</section> -->
+</section> 
 
 
 <!-- Top Languages Section -->
-<!--<section style="margin-bottom: 40px;">
+<section style="margin-bottom: 40px;">
   <h4 align="left">Top Languages</h4>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loskiii&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="loskiii" />
   </p>
-</section>-->
+</section>
 
 <!-- Streak Stats Section -->
 <section>
