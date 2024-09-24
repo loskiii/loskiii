@@ -24,8 +24,8 @@
       </a>
     </td>
     <td align="center" width="100">
-      <a href="https://twitter.com/loskii_008" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loskii_008" height="70" width="70"/>
+      <a href="https://x.com/loskii008" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loskii008" height="70" width="70"/>
       </a>
     </td>
     <td align="center" width="100">
