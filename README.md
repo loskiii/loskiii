@@ -12,7 +12,7 @@
 
 | 💬 **Ask me about** | 📫 **My Email** | ⚡ **Fun fact** |
 |---------------------|-----------------|----------------|
-| Android, Kotlin, SQL| omoloski5@gmail.com | I am 6'3" |
+| Android, Kotlin, SQL| omoloski5@gmail.com | I am 6'2" |
 
 
 <h3 align="left">Connect with me:</h3>
