@@ -154,14 +154,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loskiii&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="loskiii" />
   </p>
 </section>
+Support My Work 💖
 
-<!-- Streak Stats Section -->
-<section>
-  <h4 align="left">Streak Stats</h4>
-  <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=loskiii&&theme=nightowl" alt="loskiii" />
-  </p>
-</section>
+If you appreciate the work I do and would like to support me, consider making a donation. Your support will help me continue creating valuable content and improving my skills!
+
+[![Donate](https://img.shields.io/badge/Donate-Donate%20Now-brightgreen)](https://www.paypal.com/donate/?hosted_button_id=U6HVRFVMRZ29A)
+
+
+
  <h4 align="left">Trophies:</h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loskiii" alt="loskiii" /></a> </p>
 
